@@ -41,3 +41,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+
+gem 'devise'
+gem 'devise_rpx_connectable', git: "https://github.com/TheEmpty/devise_rpx_connectable.git"
